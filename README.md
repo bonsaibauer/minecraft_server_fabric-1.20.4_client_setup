@@ -67,6 +67,27 @@ Enthält alles, was du brauchst:
 - Änderungen am Modpack werden beim Joinen erkannt
 - AutoModpack lädt Updates automatisch herunter
 
+---
+
+# Aktuelle Mod-Sammlungen auf dem Server
+
+## 1.1 🎨 Shader & Resource Packs
+- **Amodp_shaderpacks** – Sammlung verschiedener Shader-Packs zur visuellen Verbesserung  
+  👉 https://modrinth.com/collection/8r7aWpCm
+
+- **Amodp_resourcepacks** – Auswahl an Resource-Packs für individuelle Texturverbesserungen  
+  👉 https://modrinth.com/collection/VIlw5fEl
+
+## 1.2 🧩 Client-Side Mods
+- **Client_Side_Mods** – Nützliche Mods, die direkt auf dem Spielclient laufen  
+  👉 https://modrinth.com/collection/tVuiNvdb
+
+## 1.3 🛠️ Server-Side Mods
+- **Server_Side_Mods** – Serverseitige Mods  
+  👉 https://modrinth.com/collection/QJaDYdhN
+
+---
+
 ## 📚 Quellen
 
 - Iris Installer: https://www.irisshaders.dev/download  
