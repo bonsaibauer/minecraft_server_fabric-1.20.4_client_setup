@@ -1,4 +1,4 @@
-# 🎮 Minecraft Fabric Server Setup (mit AutoModpack & Iris)
+# 🎮 Minecraft Fabric Server Setup (mit AutoModpack)
 
 ## 📦 Direkt-Download (Empfohlen)
 
